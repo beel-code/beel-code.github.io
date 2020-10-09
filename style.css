@@ -1,3 +1,20 @@
-.body{
-  bg-color:red;
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner{
+    background:linear-gradient(to right,#009aff,#67E6DC);
+    height: 100%;
+}
+
+.wrapper{
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    font-size: 50px;
+    margin: 0px auto;
+    padding-top: 150px;
+
 }
