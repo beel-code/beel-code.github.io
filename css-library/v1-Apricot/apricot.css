@@ -5,3 +5,13 @@ body{
 .body-container{
     height: 100%;
 }
+
+.wrapper-960{
+    width: 960px;
+    margin: 0px auto;
+}
+
+.wrapper-1080{
+    width: 1080px;
+    margin: 0px auto;
+}
