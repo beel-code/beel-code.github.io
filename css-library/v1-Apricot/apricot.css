@@ -21,6 +21,11 @@ body{
     padding: 0px 36px;
 }
 
-.header-logo{
+.header-logo-l{
     height: 100%;
+}
+
+.header-logo-r{
+    height: 50px;
+    margin: 15px 0px;
 }
